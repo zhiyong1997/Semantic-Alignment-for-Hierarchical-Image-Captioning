@@ -22,7 +22,7 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 
 ## Demo
 
-<p><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
+<p style="text-align:center"><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
 ## Code
 We provide source code on [Github](github.com/zhiyong1997/github-pages-test), including:
