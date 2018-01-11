@@ -25,7 +25,7 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 <p style="text-align:center"><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
 ## Code
-We provide source code on [Github](github.com/zhiyong1997/github-pages-test), including:
+We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
 1. Train/Test code.
 2. Visualization tool for attention mechanism.
 
