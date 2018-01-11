@@ -21,7 +21,7 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 
 ## Demo
 
-<video width="320" height="240" controls="controls" autoplay="autoplay">
+<video width="100%" height="240" controls="controls" autoplay="autoplay">
   <object data="https://www.youtube.com/watch?v=NKpuX_yzdYs" width="320" height="240">
     <embed width="320" height="240" src="https://www.youtube.com/watch?v=NKpuX_yzdYs" />
   </object>
