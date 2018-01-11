@@ -6,7 +6,7 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 
 ## Authors
 
-<table style="width:100%" align="center">
+<table style="width:100%" align="center" bgcolor="#FFFFFF">
   <tr>
     <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th>
     <th><img src="./assets/fzy.JPG" style="border-radius:50%;"/></th> 
