@@ -4,4 +4,16 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 ![Architecture](./assets/architecture-page-001.jpg)
 
 ## Authors
-<img src="./assets/lsd.JPG" style="border-radius:50%;"/>
+
+<table style="width:100%">
+  <tr>
+    <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th>
+    <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th> 
+    <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th>
+  </tr>
+  <tr>
+    <th>Sidi Lu</th>
+    <th>Zhiyong Fang</th>
+    <th>Peiyao Sheng</th>
+  </tr>
+</table>
