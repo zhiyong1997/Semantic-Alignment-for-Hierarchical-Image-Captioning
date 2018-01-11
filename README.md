@@ -22,4 +22,5 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 
 ## Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg)](https://www.youtube.com/watch?v=QJbCfhRkcyg)
+
+<p><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" alt="IMAGE ALT TEXT HERE" width="100%" /></a></p>
