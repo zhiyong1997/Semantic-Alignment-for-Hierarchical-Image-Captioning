@@ -11,7 +11,7 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
     <th><img src="./assets/fzy.JPG" style="border-radius:50%;"/></th> 
     <th><img src="./assets/spy.JPG" style="border-radius:50%;"/></th>
   </tr>
-  <tr stype="align:center">
+  <tr align="center">
     <th>Sidi Lu</th>
     <th>Zhiyong Fang</th>
     <th>Peiyao Sheng</th>
