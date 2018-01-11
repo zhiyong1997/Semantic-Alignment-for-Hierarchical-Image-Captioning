@@ -1,6 +1,6 @@
 ## V1.6
 ## Abstract
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1em;">Inspired by recent progress of hierarchical reinforcement learning and adversarial text generation, we introduce a hierarchical adversarial attention based model to generate natural language description of images. The model automatically learns to align the attention over images and subgoal vectors in the process of caption generation. We describe how we can train, use and understand the model by showing its performance on Flickr8k. We also visualize the subgoal vectors and attention over images during generation procedures.</span>
+<span style="font-size: 2em;">Inspired by recent progress of hierarchical reinforcement learning and adversarial text generation, we introduce a hierarchical adversarial attention based model to generate natural language description of images. The model automatically learns to align the attention over images and subgoal vectors in the process of caption generation. We describe how we can train, use and understand the model by showing its performance on Flickr8k. We also visualize the subgoal vectors and attention over images during generation procedures.</span>
 
 
 <img src="./assets/architecture-page-001.jpg" align="center" style="width:100%">
@@ -25,7 +25,7 @@
 <p style="text-align:center"><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
 ## Code
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1em;">
+<span font-size: 2em;">
 We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
 1. Train/Test code.
 2. Visualization tool for attention mechanism.
