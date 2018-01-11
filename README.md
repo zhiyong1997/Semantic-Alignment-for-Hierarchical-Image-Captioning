@@ -8,10 +8,10 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 <table style="width:100%">
   <tr>
     <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th>
-    <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th> 
-    <th><img src="./assets/lsd.JPG" style="border-radius:50%;"/></th>
+    <th><img src="./assets/fzy.JPG" style="border-radius:50%;"/></th> 
+    <th><img src="./assets/spy.JPG" style="border-radius:50%;"/></th>
   </tr>
-  <tr>
+  <tr stype="align:center">
     <th>Sidi Lu</th>
     <th>Zhiyong Fang</th>
     <th>Peiyao Sheng</th>
