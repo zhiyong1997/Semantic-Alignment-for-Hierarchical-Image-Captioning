@@ -4,3 +4,4 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 ![Architecture](./assets/architecture-page-001.jpg)
 
 ## Authors
+<img src="./assets/lsd.JPG" style="border-radius:50%;"/>
