@@ -21,5 +21,6 @@ Inspired by recent progress of hierarchical reinforcement learning and adversari
 
 ## Demo
 
-<iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
-   width="100%" frameborder="0" allowfullscreen></iframe>
+<video width="100%" controls preload> 
+    <source src="https://www.youtube.com/embed/W7qWa52k-nE"></source> 
+</video>
