@@ -27,6 +27,7 @@
 ## Code
 <span font-size: "1.5em;">
 We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
+</span>
 1. Train/Test code.
 2. Visualization tool for attention mechanism.
-</span>
+
