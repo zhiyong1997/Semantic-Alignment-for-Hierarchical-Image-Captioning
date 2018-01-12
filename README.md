@@ -49,3 +49,6 @@ We provide source code on [Github](https://github.com/zhiyong1997/github-pages-t
           howpublished={\url{https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf}}
         }
 </pre>
+
+## Example Result
+<img src="./assets/Screenshot from 2018-01-12 12-08-07.png"/>
