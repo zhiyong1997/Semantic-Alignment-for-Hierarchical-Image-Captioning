@@ -42,12 +42,10 @@ We provide source code on [Github](https://github.com/zhiyong1997/github-pages-t
 
 ## Bibtex
 <pre style="font-size: 1.5em;">
-@Article{Lu2018SemanticAlignment,
+@misc{Lu2018SemanticAlignment,
           title={Semantic Alignment for Hierarchical Image Captioning},
-          author={Lu, Sidi and Fang, Zhiyong and Sheng Peiyao},
+          author={Lu, Sidi and Fang, Zhiyong and Sheng, Peiyao},
           year={2018},
-          archivePrefix = "arXiv",
-          eprint = "0707.3168",
-          primaryClass  = "hep-th"
+          howpublished={\url{https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf}}
         }
 </pre>
