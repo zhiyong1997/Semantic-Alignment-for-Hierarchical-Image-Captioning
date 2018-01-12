@@ -25,7 +25,7 @@
 
 ## Code
 <span border="0" style="font-size: 1.5em;" >
-We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
+We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning), including:
 </span>
 <table>
   <tr>
