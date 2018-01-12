@@ -25,7 +25,7 @@
 <p style="text-align:center"><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
 ## Code
-<span style="font-size: 1.5em;">
+<span style="font-size: 1.5em;border :0;" >
 We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
 </span>
 <table>
