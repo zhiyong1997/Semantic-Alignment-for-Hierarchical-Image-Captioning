@@ -1,4 +1,4 @@
-## V2.0
+## V2.1
 ## Abstract
 <span style="font-size: 1.5em;">Inspired by recent progress of hierarchical reinforcement learning and adversarial text generation, we introduce a hierarchical adversarial attention based model to generate natural language description of images. The model automatically learns to align the attention over images and subgoal vectors in the process of caption generation. We describe how we can train, use and understand the model by showing its performance on Flickr8k. We also visualize the subgoal vectors and attention over images during generation procedures.</span>
 
@@ -38,7 +38,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/github-pages-t
 </table>
 
 ## Paper
-Our paper is available [here](https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf)
+<span style="font-size: 1.5em;"> Our paper is available [here](https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf)</span>
 
 ## Bibtex
 <pre style="font-size: 1.5em;">
