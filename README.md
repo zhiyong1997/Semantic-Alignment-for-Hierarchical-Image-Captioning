@@ -28,5 +28,11 @@
 <span style="font-size: 1.5em;">
 We provide source code on [Github](https://github.com/zhiyong1997/github-pages-test), including:
 </span>
-<span style="font-size: 1.5em;"> 1. Train/Test code.</span>
-<span style="font-size: 1.5em;"> 2. Visualization tool for attention mechanism.</span>
+<table>
+  <tr>
+    <td><span style="font-size: 1.5em;"> 1. Train/Test code.</span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.5em;"> 2. Visualization tool for attention mechanism.</span></td>
+  </tr>
+</table>
