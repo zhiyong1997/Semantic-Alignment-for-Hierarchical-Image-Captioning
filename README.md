@@ -45,7 +45,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
           title={Semantic Alignment for Hierarchical Image Captioning},
           author={Lu, Sidi and Fang, Zhiyong and Sheng, Peiyao},
           year={2018},
-          howpublished={\url{https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf}}
+          howpublished={\url{https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioningt/blob/master/assets/HACap.pdf}}
         }
 </pre>
 
