@@ -1,6 +1,3 @@
-## TODO
-2. update paper address
-3. update bibtex
 
 ## Abstract
 <span style="font-size: 1.5em;">Inspired by recent progress of hierarchical reinforcement learning and adversarial text generation, we introduce a hierarchical adversarial attention based model to generate natural language description of images. The model automatically learns to align the attention over images and subgoal vectors in the process of caption generation. We describe how we can train, use and understand the model by showing its performance on Flickr8k. We also visualize the subgoal vectors and attention over images during generation procedures.</span>
@@ -41,7 +38,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 </table>
 
 ## Paper
-<span style="font-size: 1.5em;"> Our paper is available [here](https://github.com/zhiyong1997/github-pages-test/blob/master/assets/HACap.pdf)</span>
+<span style="font-size: 1.5em;"> Our paper is available [here](https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning/blob/master/assets/HACap.pdf)</span>
 
 ## Bibtex
 <pre style="font-size: 1.5em;">
@@ -49,9 +46,7 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
           title={Semantic Alignment for Hierarchical Image Captioning},
           author={Lu, Sidi and Fang, Zhiyong and Sheng, Peiyao},
           year={2018},
-          archivePrefix = "arXiv",
-          eprint= "0707.3168",
-          primaryClass  = "hep-th",
+          howpublished={\url{https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning}}
         }
 </pre>
 
