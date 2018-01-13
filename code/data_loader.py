@@ -4,7 +4,7 @@ import numpy as np
 import sys
 import os
 sys.path.append('cocoapi/PythonAPI')
-from utils_coco import load_data_coco, show_img
+# from utils_coco import load_data_coco, show_img
 from utils_flickr import load_data_flickr
 
 class DataLoader(object):
