@@ -41,10 +41,13 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 
 <span style="font-size: 1.5em;">Our model can handle COCO, Flickr8k and Flickr30k dataset. For simplicity, we only present Flickr8k here. </span>
 
-1. Create folder ./code/dataset
-2. Download processed Flickr8k Image Captioning Dataset from [here](https://pan.baidu.com/s/1bpSDwJl) with key: sh4u 
-3. Unzip the downloaded file in ./code/dataset/ 
-4. Run ./code/main.py with python3
+<span style="font-size: 1.0em;"> 1. Create folder ./code/dataset </span>
+
+<span style="font-size: 1.0em;"> 2. Download processed Flickr8k Image Captioning Dataset from [here](https://pan.baidu.com/s/1bpSDwJl) with key: sh4u </span>
+
+<span style="font-size: 1.0em;"> 3. Unzip the downloaded file in ./code/dataset/ </span>
+
+<span style="font-size: 1.0em;"> 4. Run ./code/main.py with python3 </span>
 
 ## Paper
 <span style="font-size: 1.5em;"> Our paper is available [here](https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning/blob/master/assets/HACap.pdf)</span>
