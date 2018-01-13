@@ -37,38 +37,22 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
   </tr>
 </table>
 
-### Code Usage
+### Sample Usage
 
-#### COCO Dataset
+<span style="font-size: 1.5em;">Our model can handle COCO, Flickr8k and Flickr30k dataset. For simplicity, we only present Flickr8k here. </span>
+
 <table>
   <tr>
-    <td><span style="font-size: 1.0em;"> 1. Create folder ./code/dataset/COCO</span></td>
+    <td><span style="font-size: 1.0em;"> 1. Create folder ./code/dataset </span></td>
   </tr>
   <tr>
-    <td><span style="font-size: 1.0em;"> 2. Download COCO2014 Image Captioning Dataset </span></td>
+    <td><span style="font-size: 1.0em;"> 2. Download processed Flickr8k Image Captioning Dataset from [here](https://pan.baidu.com/s/1bpSDwJl) with key: sh4u </span></td>
   </tr>
   <tr>
-    <td><span style="font-size: 1.0em;"> 3. Unzip the file and put them all into folder "COCO". </span></td>
+    <td><span style="font-size: 1.0em;"> 3. Unzip the downloaded file in ./code/dataset/ </span></td>
   </tr>
   <tr>
-    <td><span style="font-size: 1.0em;"> 4. Run ./code/main.py </span></td>
-  </tr>
-
-</table>
-
-#### Flicker 8k/30k
-<table>
-  <tr>
-    <td><span style="font-size: 1.0em;"> 1. Create folder ./code/dataset/f8k or ./code/dataset/f30k</span></td>
-  </tr>
-  <tr>
-    <td><span style="font-size: 1.0em;"> 2. Download Flickr8k/Flickr30k Image Captioning Dataset </span></td>
-  </tr>
-  <tr>
-    <td><span style="font-size: 1.0em;"> 3. Unzip the file and put them all into folder "f8k"/"f30k". </span></td>
-  </tr>
-  <tr>
-    <td><span style="font-size: 1.0em;"> 4. Run ./code/main.py </span></td>
+    <td><span style="font-size: 1.0em;"> 4. Run ./code/main.py with python3</span></td>
   </tr>
   
 </table>

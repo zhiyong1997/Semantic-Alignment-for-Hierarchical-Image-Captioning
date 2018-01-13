@@ -14,9 +14,9 @@ skip_rate = 0.0
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_boolean('test', True, 'Training or testing a model.')
+flags.DEFINE_boolean('test', False, 'Training or testing a model.')
 flags.DEFINE_boolean('init', True, 'To initialize the parameters or to load it from existing file.')
-flags.DEFINE_boolean('conti', True, 'To initialize the parameters or to load it from existing file.')
+flags.DEFINE_boolean('conti', False, 'To initialize the parameters or to load it from existing file.')
 flags.DEFINE_boolean('save', True, 'The training will update the saved model.')
 flags.DEFINE_string('dataset', 'f8k', 'The dataset to use.')
 
