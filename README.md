@@ -1,5 +1,4 @@
 ## TODO
-1. update demo video address.
 2. update paper address
 3. update bibtex
 
@@ -26,7 +25,7 @@
 
 ## Demo
 
-<p style="text-align:center"><a href="https://www.youtube.com/watch?v=QJbCfhRkcyg"><img src="https://img.youtube.com/vi/QJbCfhRkcyg/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
+<p style="text-align:center"><a href="https://www.youtube.com/watch?v=GpUTlI-Dv-g"><img src="https://img.youtube.com/vi/GpUTlI-Dv-g/0.jpg" align="center" alt="IMAGE ALT TEXT HERE" width="75%" /></a></p>
 
 ## Code
 <span border="0" style="font-size: 1.5em;" >
