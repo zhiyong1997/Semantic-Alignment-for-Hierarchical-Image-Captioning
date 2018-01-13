@@ -47,6 +47,8 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
 
 <span style="font-size: 1.0em;"> 3. Unzip the downloaded file in ./code/dataset/ </span>
 
+<span style="font-size: 1.0em;"> 4. Download resnet50 model file in ./code/saved_model/ from [here](https://pan.baidu.com/s/1nwYEQAP) with key: h712
+
 <span style="font-size: 1.0em;"> 4. Run ./code/main.py with python3 </span>
 
 ## Paper
