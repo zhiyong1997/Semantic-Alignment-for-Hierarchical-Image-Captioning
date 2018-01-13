@@ -37,6 +37,42 @@ We provide source code on [Github](https://github.com/zhiyong1997/Semantic-Align
   </tr>
 </table>
 
+### Code Usage
+
+#### COCO Dataset
+<table>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 1. Create folder ./code/dataset/COCO</span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 2. Download COCO2014 Image Captioning Dataset </span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 3. Unzip the file and put them all into folder "COCO". </span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 4. Run ./code/main.py </span></td>
+  </tr>
+
+</table>
+
+#### Flicker 8k/30k
+<table>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 1. Create folder ./code/dataset/f8k or ./code/dataset/f30k</span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 2. Download Flickr8k/Flickr30k Image Captioning Dataset </span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 3. Unzip the file and put them all into folder "f8k"/"f30k". </span></td>
+  </tr>
+  <tr>
+    <td><span style="font-size: 1.0em;"> 4. Run ./code/main.py </span></td>
+  </tr>
+  
+</table>
+
 ## Paper
 <span style="font-size: 1.5em;"> Our paper is available [here](https://github.com/zhiyong1997/Semantic-Alignment-for-Hierarchical-Image-Captioning/blob/master/assets/HACap.pdf)</span>
 

@@ -1,0 +1,6 @@
+scipy
+tensorflow-gpu
+numpy
+matplotlib
+opencv-python
+scikit-image
